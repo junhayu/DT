@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DT1.FormDT1" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACABAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>FormDT1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.FormDT2" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAACAAABAAAACAAAACAAgAAAEAQAAgAQAAAQA=</HashCode>
+      <FileName>FormDT2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.FormDT3" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAABQAAASAAAACABA8BgAABAAAAQAAQAA=</HashCode>
+      <FileName>FormDT3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.FormLicense" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AAAAAQAACAAARAAgACAAAACQEA4AAAAAAAQAQBAACA=</HashCode>
+      <FileName>FormLicense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.FormMain" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQJUAAgCCEAAlATgAKGABASCACAIUgwBARAAQARAkE=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.Measurement" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAgAAAAAAAAAAAAAAAAAAEBAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Measurement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.Program" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.Serializer">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQCAIIAgAABAABEAAAFQAAQACAAAA4AAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT1.Properties.Settings" Collapsed="true">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
